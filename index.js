@@ -20,4 +20,6 @@ var lowercase = "hello"
 
 function sayHiToGrandma(string) {
   
-} (if string === lowercase)
+} (if string === lowercase){
+  return 
+}
