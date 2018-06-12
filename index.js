@@ -18,8 +18,6 @@ var uppercase = "Hello!"
 
 var lowercase = "hello"
 
-var ILoveYou = "I love you, Grandma."
-
 function sayHiToGrandma(string) {
   
-}
+} 
