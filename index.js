@@ -20,4 +20,4 @@ var lowercase = "hello"
 
 function sayHiToGrandma(string) {
   
-} 
+} if string
